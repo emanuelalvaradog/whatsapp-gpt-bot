@@ -8,7 +8,7 @@ This is a node Whatsapp bot using openai api.
 2. Select the model openai model you want to use (default gpt-3.5-turbo)
 3. Run `npm install`
 4. Run `npm run start`
-5. A qr code will be displayed in your terminal. Go to your whatsapp app, and link a new device scanning the qr code.
+5. Go to your whatsapp app and link a new device scanning the qr code that showed up in your terminal.
 6. You're ready to go.
 
 Your bot will be on while your node app is running.
